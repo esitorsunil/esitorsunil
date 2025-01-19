@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sunil
 
-Junior Web Developer - Intern with Practical Industry Experience
+Junior Web Developer - Intern with Practical Industry Experience.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://steady-kataifi-7c57bf.netlify.app/).                                                 
 - 🌱 I’m currently learning Back-End and Data Structure with Algorithm (DSA).
