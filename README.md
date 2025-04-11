@@ -9,7 +9,7 @@ Junior Web Developer - Intern with Practical Industry Experience.
 - 💬 Ask me about Tech ?
 - 📫 How to reach me : 
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/esitor-sunil-a82610284/)
-- 😄 Pronouns: Techie
+- 😄 Pronouns: Techie.
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/><img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/office/40/react.png" alt="react"/> <img width="50" height="50" src="https://img.icons8.com/color/48/redux.png" alt="redux"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
