@@ -5,7 +5,7 @@ Junior Web Developer - Intern with Practical Industry Experience.
 - 🔭 Here's my [portfolio](https://sunil-webapp.netlify.app/).                                                 
 - 🌱 I’m currently learning Data Structure with Algorithm (DSA). 
 - 👯 I’m looking to collaborate on Front-End with React. 
-- 🤔 I’m looking for MERN Full-stack role.
+- 🤔 I’m looking for MERN Full-stack role. 
 - 💬 Ask me about Tech ?
 - 📫 How to reach me : 
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/esitor-sunil-a82610284/)
