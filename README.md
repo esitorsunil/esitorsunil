@@ -1,6 +1,10 @@
 ## Hi there 👋 It's me Sunil
 
-Junior Web Developer - Intern with Practical Industry Experience.
+I'm a Front-End Developer Intern at Pranathi Software Services, passionate about crafting clean, responsive, and interactive web interfaces. I specialize in React, Redux, JavaScript, and CSS.
+
+I’m also deeply interested in backend development using Node.js, Express, and MongoDB. I enjoy designing robust APIs and working on full-stack features that bring ideas to life end-to-end.
+
+Always learning, I enjoy exploring frameworks, refining performance, and crafting clean, efficient solutions with collaborative teams.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://sunil-webapp.netlify.app/).                                                 
 - 🌱 I’m currently learning Data Structure with Algorithm (DSA). 
