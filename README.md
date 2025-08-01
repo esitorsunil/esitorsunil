@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sunil
 
-I'm a Front-End Developer Intern at Pranathi Software Services, 
+I'm a Front-End Developer Intern at Pranathi Software Services,
 passionate about crafting clean, responsive, and interactive web interfaces. I specialize in React, Redux, JavaScript, and CSS.
 
 I’m also deeply interested in backend development using 
