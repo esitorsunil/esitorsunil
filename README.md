@@ -5,7 +5,7 @@ passionate about crafting clean, responsive, and interactive web interfaces. I s
 
 I’m also deeply interested in backend development using 
 Node.js, Express, and MongoDB. I enjoy designing robust APIs and 
-working on full-stack features that bring ideas to life end-to-end.
+working on full-stack features that bring ideas to life end-to-end. 
 
 Always learning, I enjoy exploring frameworks, refining performance, 
 and crafting clean, efficient solutions with collaborative teams.
