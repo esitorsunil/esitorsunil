@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Sunil
+## Hi there 👋 Myself Sunil
 
 I'm a Front-End Developer Intern at Pranathi Software Services,
 passionate about crafting clean, responsive, and interactive web interfaces. I specialize in React, Redux, JavaScript, and CSS.
